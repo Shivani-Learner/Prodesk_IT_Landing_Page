@@ -30,7 +30,10 @@ A modern, responsive, and visually appealing landing page built using **HTML5**,
 ---
 
 ## Project Screenshots
-![Landing Page Screenshots](./Screenshot%20(1).png) (./Screenshot(2).png )(./Screenshots(3).png) (./Screenshots(4).png)
+![Landing Page Screenshots](./Screenshot%20(1).png) 
+![Landing Page Screenshots2](./Screenshot%20(2).png)
+![Landing Page Screenshots3](./Screenshot%20(3).png) 
+![Landing Page Screenshots4](./Screenshot%20(4).png)
 *(Note:The Screenshots above showcases the final Layout of the Landing Page)
 
 ## 🛠️ Technologies Used
